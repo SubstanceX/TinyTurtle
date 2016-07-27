@@ -1,0 +1,16 @@
+.jumbotron {
+    color:grey;
+    background-image: url(http://vignette2.wikia.nocookie.net/smallville/images/3/3f/1021Smallville3172.jpg/revision/latest?cb=20110517194602)
+}
+h1 {
+    font-family: cursive;
+    font-style: italic;
+    text-align: center; 
+}
+body {
+    color:white;
+    background-image: url('http://img05.deviantart.net/b6ac/i/2015/260/f/5/darkseid_portrait_by_vshen-d99yi8j.jpg')
+}
+container{
+    margin-bottom: 20px;
+}
